@@ -2,17 +2,16 @@
 
 ### Who Am I?
 
-I am an data science undergraduate at Brigham Young University - Idaho expecting to graduate in Dec 2024. My undergraduate work has involved various machine learning projects (Polars, PySpark, SKLearn, TensorFlow), statistics (linear and logistic regression), and analytics (R, Python, SQL, PowerBI). I enjoy practical applications of optimization and automation processes.
+I am currently a Business Data Analyst at [HeartLand LLC](https://heartlandcompany.com/).I studied Data Science as an undergraduate and graduated with my B.S. in Data Science in December of 2024. During my educational and professional work, I have complemeted many projects using a variety of data science tools. From data wrangling and machine learning in Python (Polars, PySpark, SKLearn, TensorFlow), to statistical work (R, linear and logistic regression), and even business intelligence and analytics tools (SQL, PowerBI). I strive for practical applications of optimization and automation processes.
 
 ### Current Projects
 
-* Research and development of an AI Peer Mentoring Bot intended to assess students' understanding levels, and provide teachers and mentors with a learning gap report.
-* Metadata cluster analysis for bibliographic records in the Family History Library at Family Search. Find more information [here](https://github.com/Family-Search-Public-Resources)
-* Machine learning model to predict convenience store stocking needs in preparation for specific events (natural disasters, holidays, etc)
+* An automated data pipeline that dynamically searches for store locations in the US (Azure Maps API) and processes data into a database so it can be used for strategic sales growth.
+* An AI art image generator that will dynamically generate images, combine the images into a .mp4 with music a text, and then automatically post to social media platforms.
 
 ### Experience
 
-I am currently a business intelligence intern at [HeartLand LLC](https://heartlandcompany.com/). My work there includes the following:
+My work at HeartLand has included the following:
 
 *	Developed 2 end to end automated data pipelines using Python, SQL, Azure Automation, Power Automate, and Power BI to process and visualize over 1 million rows of data across 2 departments.
 *	Create exception reporting processes using SQL and Power Automate that reduced data inaccuracies by over 90% in 6 months.
