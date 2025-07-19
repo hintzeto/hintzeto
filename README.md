@@ -2,7 +2,7 @@
 
 ### Who Am I?
 
-I am currently a Business Data Analyst at [HeartLand LLC](https://heartlandcompany.com/).I studied Data Science as an undergraduate and graduated with my B.S. in Data Science in December of 2024. During my educational and professional work, I have complemeted many projects using a variety of data science tools. From data wrangling and machine learning in Python (Polars, PySpark, SKLearn, TensorFlow), to statistical work (R, linear and logistic regression), and even business intelligence and analytics tools (SQL, PowerBI). I strive for practical applications of optimization and automation processes.
+I am currently a Business Data Analyst at [HeartLand LLC](https://heartlandcompany.com/). I studied Data Science as an undergraduate and graduated with my B.S. in Data Science in December of 2024. During my educational and professional work, I have complemeted many projects using a variety of data science tools. From data wrangling and machine learning in Python (Polars, PySpark, SKLearn, TensorFlow), to statistical work (R, linear and logistic regression), and even business intelligence and analytics tools (SQL, PowerBI). I strive for practical applications of optimization and automation processes.
 
 ### Current Projects
 
